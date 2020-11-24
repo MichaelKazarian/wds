@@ -6,8 +6,9 @@ url: "https://michaelkazarian.github.io" # the base hostname & protocol for your
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to Word Dolphin
-hero-description: Word Dolphin is an easy word-learning app. Also, It's a personal dictionary.
+hero-title: Word Dolphin
+hero-description: Improve your vocabulary
+hero-video: "iWowJBRMtpc"
 
 # Author - Creator
 author-name: Word Dolphin
@@ -46,7 +47,7 @@ facebook: https://www.facebook.com/WordDolphin
 # youtube: https://www.youtube.com/
 
 # Contact Form Settings
-contact-subtitle: Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Kogi cornhole enamel. # Title for the subscription form.
+contact-subtitle: Title for the subscription form.
 
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
