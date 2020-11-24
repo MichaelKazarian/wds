@@ -23,7 +23,7 @@ authors:
   Tetiana_Kazarian:
     author-name: Tetiana Kazarian
     author-image: TFoto.jpg
-    about-author: My name is Tetiana Kazarian. I love walking, I play the guitar in my spare time. And also write articles about different things.
+    about-author: My name is Tetiana Kazarian. I write articles about different things.
     author-email: tatiana.kazarian@gmail.com
     author-facebook: https://www.facebook.com/kimkol.kimkol
     # author-instagram: https://www.instagram.com/
@@ -38,12 +38,12 @@ authors:
     # author-pinterest: https://pinterest.com/
 
 # Social Media Links (Links are located in hero and footer)
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-google-plus: https://plus.google.com/
-instagram: https://www.instagram.com/
-pinterest: https://pinterest.com/
-youtube: https://www.youtube.com/
+# twitter: https://twitter.com/
+facebook: https://www.facebook.com/WordDolphin
+# google-plus: https://plus.google.com/
+# instagram: https://www.instagram.com/
+# pinterest: https://pinterest.com/
+# youtube: https://www.youtube.com/
 
 # Contact Form Settings
 contact-subtitle: Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Kogi cornhole enamel. # Title for the subscription form.
