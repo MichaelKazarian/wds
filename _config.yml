@@ -1,7 +1,7 @@
 # Site settings
 title: Word Dolphin
 description: Word Dolphin home page
-baseurl: "/WordDolphinSite" # the subpath of your site, e.g. /blog
+baseurl: "/wds" # the subpath of your site, e.g. /blog
 url: "https://michaelkazarian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
