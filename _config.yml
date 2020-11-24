@@ -46,6 +46,9 @@ facebook: https://www.facebook.com/WordDolphin
 # pinterest: https://pinterest.com/
 # youtube: https://www.youtube.com/
 
+# Infobox (Social and subscribe)
+infobox: false
+
 # Contact Form Settings
 contact-subtitle: Title for the subscription form.
 
