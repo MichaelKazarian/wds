@@ -572,7 +572,7 @@ table tr:hover {
           flex: 1 0 auto;
   width: 1440px;
   max-width: 100%;
-  margin: 80px auto 80px;
+  margin: 50px auto 50px; /* Size between hero and posts */
   -webkit-transition: all .35s ease;
   -o-transition: all .35s ease;
   transition: all .35s ease;
