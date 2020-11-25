@@ -2,10 +2,10 @@
 title: Word Dolphin
 description: Word Dolphin home page
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://michaelkazarian.github.io/wds" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://michaelkazarian.github.io/wds/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
-# hero: 112.jpg
+hero: 112.jpg
 hero-title: Word Dolphin
 hero-description: Improve your vocabulary
 hero-video: iWowJBRMtpc
