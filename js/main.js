@@ -52,7 +52,7 @@ $(function() {
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    json: '/search.json',
+    json: '/wds/search.json',
     searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
     noResultsText: 'No results found'
   })
@@ -88,7 +88,7 @@ $(function() {
 
     $(this).addClass("is-loading").text("Loading...");
 
-    $.get("/page/" + nextPage, function(data) {
+    $.get("/wds/page/" + nextPage, function(data) {
       var htmlData = $.parseHTML(data);
       var $articles = $(htmlData).find("article");
 
