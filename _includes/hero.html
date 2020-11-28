@@ -1,12 +1,21 @@
 <div class="hero" style="background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1) 0, #fff 90%), url({{"/images/" | prepend: site.baseurl | append : site.hero}})">
   <div class="hero-content">
-    <h1 class="hero-title">{% if site.hero-title %}{{site.hero-title}}{% else %}Welcome to <span>Lokmont</span>{% endif %}</h1>
-    <div class="hero-description">{% if site.hero-description %}{{site.hero-description}}{% else %}A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.{% endif %}</div>
-    <div class="hero-video">
-      {% if site.hero-video %}<iframe width="560" height="315" src="https://www.youtube.com/embed/{{site.hero-video}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{% endif %}
-    </div>
-    <div class="hero-google-play">
-      <a href='{{ site.google-play }}&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+    <div class="hero-row">
+      <div class="hero-column">
+        <h1 class="hero-title">{% if site.hero-title %}{{site.hero-title}}{% else %}Welcome to <span>Lokmont</span>{% endif %}</h1>
+        <div class="hero-description">{% if site.hero-description %}{{site.hero-description}}{% else %}A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.{% endif %}</div>
+        <div class="hero-google-play">
+          <a href='{{ site.google-play }}&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/a>
+        </div>
+        <div class="hero-description">{% if site.hero-description %}{{site.hero-description}}{% else %}A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.{% endif %}</div>
+        <div class="hero-description">{% if site.hero-description %}{{site.hero-description}}{% else %}A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.{% endif %}</div>
+        <div class="hero-description">{% if site.hero-description %}{{site.hero-description}}{% else %}A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.{% endif %}</div>
+      </div>
+      <div class="hero-column" >
+        <div class="hero-video">
+          {% if site.hero-video %}<iframe width="560" height="315" src="https://www.youtube.com/embed/{{site.hero-video}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{% endif %}
+        </div>        
+      </div>
     </div>
   </div>
 </div> <!-- /.hero -->
