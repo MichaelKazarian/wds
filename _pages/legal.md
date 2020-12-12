@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legal
-image: 13.jpg
+image: agreement.jpg
 ---
 
 [Privacy Policy](#privacy_policy)<br/>
