@@ -2,7 +2,7 @@
 layout: post
 title: Part 3. Repeating
 date: 2020-12-12 02:59:58 +0300
-img: repeating.jpg
+img: repeating1.jpg
 tags: [organize]
 author: Mykhailo_Kazarian
 ---
