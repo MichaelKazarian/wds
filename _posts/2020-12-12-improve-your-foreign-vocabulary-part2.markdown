@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improve your foreign vocabulary. Part 2. Learning
+title: Part 2. Learning
 date: 2020-12-12 12:59:59 +0300
 img: dictionary.jpg
 tags: [organize]
@@ -10,7 +10,7 @@ So, you study a foreign language. Perhaps you are studying it with a teacher, by
 
 ***
 
-#### Not all words are equal. Learn the right words only
+### Not all words are equal. Learn the right words only
 Any language has a **core vocabulary**. It's the most common words used in the language. For intermediate English, [you need to know up to 7000 words](http://www.englishteachermelanie.com/study-tip-the-english-words-you-need-to-know/). Don't panic! Millions of people succeeded, and you can.  What should we do to achieve it?
 
 #### Everyday practice
@@ -29,7 +29,7 @@ Writing helps to memorize words and recognize them in the text. But avoid write 
 
 ***
 
-Word Dolphin implements these points. Don't learn too much from the start. 5-6 words per day are well. After some practice, you can increase word numbers.
+Word Dolphin implements these points. 
 
 Add unknown words to Word Dolphin and mark them to learn.
 
@@ -37,6 +37,21 @@ Add unknown words to Word Dolphin and mark them to learn.
 
 Dictionaries can provide a lot of translations. But not all translations are equal. For example, **pass** has tens of translations but mainly used only 3-4. It's easy to learn 2-3 translations. It's easy to learn 2-3 translations, but more than five translations are difficult. For many languages, Google or Microsoft Translator shows the translation rating.
 
+#### Words learning is not a race!
+Don't learn too much from the start! If you try to learn too many words per time, you will lose to memorize them. Five or six words per day are well. After some practice, you can increase word numbers.
+
+### New words learning with Word Dolphin
+* First learning. Memorize new words. This stage takes the most time.
+* Second learning. After 15-30 minutes.
+* Third learning. After 6-8 hours.
+* Fourth learning. After 24 hours.
+
+If you have memorized all words properly, mark them learned.
+
+> **Be honest** Word Dolphin suggests you translate words. For each translated word, you decide if the answer right or wrong.
+
 ***
 
-Ok, you have learned new words! My congratulations! But words training is the first important part of word learning. The next one is not to forget new words! The following article about it.
+Ok, you have learned new words! My congratulations! But words training is the first important part of word learning. The next one is not to forget new words!
+![Forgeting]({{site.baseurl}}/images/forgeting3.jpeg)
+The following article about it.
