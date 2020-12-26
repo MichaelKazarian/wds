@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improve your foreign vocabulary. Part 1. Organize the learning process.
+title: Part 1. Organize the foreign vocabulary improvement
 date: 2020-12-12 22:50:59 +0300
 img: organize.jpeg
 tags: [organize]
