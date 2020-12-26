@@ -7,7 +7,7 @@ url: "https://michaelkazarian.github.io" # the base hostname & protocol for your
 # Banner Section
 # hero: 112.jpg
 hero-title: Word Dolphin
-hero-description: Easy way to improve your foreign language vocabulary
+hero-description: Easy way to improve your foreign vocabulary
 hero-video: NJMA0j9K8bQ
 
 # Author - Creator
@@ -24,14 +24,14 @@ authors:
   Tetiana_Kazarian:
     author-name: Tetiana Kazarian
     author-image: TFoto.jpg
-    about-author: My name is Tetiana Kazarian. I write articles about different things.
+    about-author: I write articles about different things.
     author-email: tatiana.kazarian@gmail.com
     author-facebook: https://www.facebook.com/kimkol.kimkol
     # author-instagram: https://www.instagram.com/
   Mykhailo_Kazarian:
     author-name: Mykhailo Kazarian
     author-image: MFoto.jpg
-    about-author: My name is Mykhailo Kazarian. I am Word Dolphin creator.
+    about-author: Word Dolphin creator.
     author-email: michael.kazarian@gmail.com
     author-twitter: https://twitter.com/MykhailoKazari1
     author-facebook: https://www.facebook.com/mykhailo.kazarian.1
