@@ -6,7 +6,7 @@ img: repeating1.jpg
 tags: [organize]
 author: Mykhailo_Kazarian
 ---
-When you learned new words, you face a new problem. You can't remember learned words. Let's figure out how to avoid it.
+When you learned new words, you face a new challenge. You can't remember learned words. Let's figure out how to avoid it.
 
 ***
 
