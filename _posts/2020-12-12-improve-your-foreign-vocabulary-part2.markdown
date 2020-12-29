@@ -41,14 +41,15 @@ Dictionaries can provide a lot of translations. But not all translations are equ
 Don't learn too much from the start! If you try to learn too many words per time, you will lose to memorize them. Five or six words per day are well. After some practice, you can increase word numbers.
 
 ### New words learning with Word Dolphin
-* First learning. Memorize new words. This stage takes the most time.
-* Second learning. After 15-30 minutes.
-* Third learning. After 6-8 hours.
-* Fourth learning. After 24 hours.
+The below technique works well for me: 
+* 1st learning. Memorize new words. This stage takes the most time.
+* 2nd learning. After 15-30 minutes.
+* 3rd learning. After 6-8 hours.
+* 4th learning. After 24 hours.
 
 If you have memorized all words properly, mark them learned.
 
-> **Be honest** Word Dolphin suggests you translate words. For each translated word, you decide if the answer right or wrong.
+> **Be honest** Word Dolphin suggests you translate words to test your skills. For each translated word, you decide if the answer right or wrong.
 
 ***
 

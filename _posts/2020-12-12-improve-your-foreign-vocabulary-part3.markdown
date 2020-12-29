@@ -18,7 +18,7 @@ But it's normal. A human brain tries to keep only information that useful here a
 
 #### Repeating
 
-Do you dancing or martial arts? To succeed, you must regurarly repeat hits. After hundreds of repeatings, your strike can take a win.
+Do you dance or do martial arts? To succeed, you must regularly repeat hits. After hundreds of repeatings, you can win a competition.
 Like any physical activity, word memorizing requires **regular repeating**!<br/>
 You can find different repetition techniques. Try them and select the most appropriate for your everyday training. You can start [this way](https://brightside.me/inspiration-tips-and-tricks/12-secrets-for-memorizing-things-easily-381310/).
 
