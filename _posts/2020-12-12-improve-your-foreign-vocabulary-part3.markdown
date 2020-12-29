@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 3. Repeating
+title: Part 3. Repetition
 date: 2020-12-12 02:59:58 +0300
 img: repeating1.jpg
 tags: [organize]
@@ -12,27 +12,27 @@ When you learned new words, you face a new challenge. You can't remember learned
 
 #### We are forgetful.
 
-But it's normal. A human brain tries to keep only information that useful here and now. If you don't use foreign words day after day, these ones are extra for the brain, so it tries to get rid of them. You can see a [forgetting speed](https://en.wikipedia.org/wiki/Forgetting_curve) on the graph.
+But it’s normal. A human brain tries to keep only information that useful here and now. If you don’t use foreign words day after day, they are extra for the brain, so it tries to forget them. You can see a [forgetting speed](https://en.wikipedia.org/wiki/Forgetting_curve) on the graph.
 
 ![Ebbinghaus’s Forgetting Curve]({{site.baseurl}}/images/forgetting_curve.jpeg)
 
-#### Repeating
+#### Repetition
 
-Do you dance or do martial arts? To succeed, you must regularly repeat hits. After hundreds of repeatings, you can win a competition.
-Like any physical activity, word memorizing requires **regular repeating**!<br/>
+Do you dance or do martial arts? To succeed, you must regularly repeat strikes. After hundreds of repetitions, you can win a competition.
+Like any physical activity, word memorizing requires **regular repetition**!<br/>
 You can find different repetition techniques. Try them and select the most appropriate for your everyday training. You can start [this way](https://brightside.me/inspiration-tips-and-tricks/12-secrets-for-memorizing-things-easily-381310/).
 
-### Repeating with Word Dolphin
-Word Dolphin provides standard and quick repeating.<br/>
-The **standard** repeating starts from the last learned and problematic words. The rest randomly selected from learned words. It can take up to 30-40 minutes.<br/>
+### Repetition with Word Dolphin
+Word Dolphin provides standard and quick repetition.<br/>
+The **standard** repetition starts from the last learned and problematic words. The rest randomly selected from learned words. It can take up to 30-40 minutes.<br/>
 The **quick** one asks you only five words per time. You need 1-2 minutes to pass the test. Use it if you have no time or you are tired.
 
 #### Problematic and bookmarks
-During repeat, you find some words are difficult to memorize. You can mark them as **problematic**, and Word Dolphin includes these words to standard repeating until you unmark them.<br/>
-The app tracks repeating. If you forgot a word, Word Dolphin marks it as problematic. You meet it in the next standard session. If your answer will right, problematical words disappear in the next repeating.<br/>
-**Bookmarked** words are similar to problematical but **not** included in repeating.
+During the repetition, you find some words are difficult to memorize. You can mark them as **problematic**, and Word Dolphin includes these words to standard repetition until you unmark them.<br/>
+The app tracks repetitions. If you forgot a word, Word Dolphin marks it as problematic. You meet it in the next standard session. If your answer will right, problematical words disappear in the next repetition.<br/>
+**Bookmarked** words are similar to problematical but **not** included in the repetition.
 
-> **Be honest** If a word translation doesn't like you, mark the answer as wrong to repeat it in the next repeating.
+> **Be honest.** If your answer doesn't like you, mark the answer as wrong to repeat it in the next repetition.
 
 ***
 
